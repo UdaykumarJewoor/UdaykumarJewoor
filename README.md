@@ -125,14 +125,21 @@ Currently, I’m expanding my skill set by learning **.NET (C# Web APIs)**, **Re
 
 ---
 
-## 🚀 Projects
-
 ### Fastays – Travel Booking Platform
-- Backend system for booking **buses, flights, and hotels**
-- Secure login/signup using JWT
-- Razorpay payment gateway integration
-- Booking, cancellation, and retrieval APIs  
-**Tech:** Java, Spring Boot, Microservices
+- Backend-driven travel application built using **Spring Boot**
+- Enables users to **book buses, flights, and hotels** through a unified platform
+- Implemented **secure login and signup** using **JWT-based authentication**
+- Role-based access control to manage different user permissions
+- Integrated **Razorpay payment gateway** for safe and seamless transactions
+- Designed and developed **RESTful APIs** for:
+  - Creating bookings
+  - Cancelling bookings
+  - Fetching booking details
+- Ensured **data security and integrity** using secure storage and best practices
+- Built with a **microservices-oriented architecture** for scalability  
+
+**Tech:** Java, Spring Boot, Microservices, REST APIs, JWT, Razorpay
+
 
 ---
 
