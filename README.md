@@ -16,7 +16,7 @@ I primarily work with **Java and Spring Boot**, designing **RESTful APIs**, **mi
 
 I’ve contributed to real-world production systems in domains like **travel booking** and **recruitment platforms**, handling authentication, payments, database optimization, and API design. Currently, I’m expanding my skill set by learning **.NET (C# Web APIs)**, **React**, and advanced **DevOps practices**.
 
-🔗 **Portfolio:** [techie-uday.netlify.app](https://techie-uday.netlify.app/)  
+🔗 **Portfolio:** [View here](https://techie-uday.netlify.app/)  
 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1wvusyaYNRbfBAX9wZOp35e2EVr2EriS0/view)
 
 
