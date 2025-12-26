@@ -14,7 +14,7 @@ Hi there, I’m **Udaykumar Jewoor**, a Software Engineer with **3+ years of pro
 
 I primarily work with **Java and Spring Boot**, designing **RESTful APIs**, **microservices-based architectures**, and backend solutions focused on performance, security, and maintainability. I also have working knowledge of **HTML, CSS, and JavaScript**, which helps in seamless backend–frontend integration.
 
-I’ve contributed to real-world production systems in domains like **travel booking** and **recruitment platforms**, handling authentication, payments, database optimization, and API design. Currently, I’m expanding my skill set by learning **.NET (C# Web APIs)**, **React**, and advanced **DevOps practices**.
+Currently, I’m expanding my skill set by learning **.NET (C# Web APIs)**, **React**, and advanced **DevOps practices**.
 
 🔗 **Portfolio:** [View here](https://techie-uday.netlify.app/)  
 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1wvusyaYNRbfBAX9wZOp35e2EVr2EriS0/view)
