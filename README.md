@@ -166,11 +166,10 @@ I’ve contributed to real-world production systems in domains like **travel boo
   </tr>
 </table>
 
----
+---## 🏆 GitHub Achievements & Trophies
 
-## 🏆 GitHub Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=UdaykumarJewoor&no-frame=true&no-bg=true&theme=juicyfresh&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=UdaykumarJewoor&theme=juicyfresh&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 🔗 View all achievements: https://github.com/UdaykumarJewoor?tab=achievements
 
