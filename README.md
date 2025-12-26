@@ -136,11 +136,17 @@ Currently, I’m expanding my skill set by learning **.NET (C# Web APIs)**, **Re
 
 ---
 
-### Resume Parser System
-- Automated extraction of skills, experience, and education from resumes
-- Admin and recruiter dashboards
-- Structured resume data using AI-powered APIs  
-**Tech:** Python Flask, PostgreSQL, OpenAI API
+### Resume Parser & JD Matching System
+- Backend system built using **Spring Boot** for automated resume parsing
+- Supports **bulk resume uploads** (multiple resumes at once)
+- Extracts key details such as **skills, experience, education, certificate, etc..**
+- Allows recruiters to upload a **Job Description (JD)**
+- Calculates and displays **match percentage** between resumes and the uploaded JD
+- Helps recruiters shortlist candidates faster using structured data and scoring
+- Admin dashboard for monitoring usage and recruiter activity  
+
+**Tech:** Java, Spring Boot, REST APIs, MongoDB, OpenAI API
+
 
 ---
 
