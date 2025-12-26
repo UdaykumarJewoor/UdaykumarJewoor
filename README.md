@@ -1,12 +1,9 @@
 # Welcome to my GitHub page 👋
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=520&colors=1E90FF,8E44AD,1ABC9C,FF8C00&lines=Udaykumar+Jewoor;Tech+Enthusiast;Software+Engineer;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=520&color=00E5FF&lines=Udaykumar+Jewoor;Tech+Enthusiast;Software+Engineer;Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
-
-
-
 
 
 
