@@ -168,10 +168,11 @@ I’ve contributed to real-world production systems in domains like **travel boo
 
 ## 🏆 Achievements
 
-- 🎯 Quickdraw
-- 🦈 Pull Shark
-- 🧠 Galaxy Brain
-- 🔥 YOLO
+![Quickdraw](https://img.shields.io/badge/Quickdraw-GitHub-blueviolet)
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-GitHub-blue)
+![Galaxy Brain](https://img.shields.io/badge/Galaxy%20Brain-GitHub-purple)
+![YOLO](https://img.shields.io/badge/YOLO-GitHub-orange)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=UdaykumarJewoor&no-frame=true&no-bg=true&theme=juicyfresh&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
