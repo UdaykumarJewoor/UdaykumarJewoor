@@ -14,7 +14,7 @@ with a strong focus on clean architecture, security, and performance.
 
 - 💼 Software Engineer with **3+ years of experience**
 - 🔧 Strong in **Java, Spring Boot, Microservices**
-- - 🧩 Currently learning **.NET / C#** for backend and API development
+- 🧩 Currently learning **.NET / C#** for backend and API development
 - 🔐 Implemented **JWT authentication & role-based authorization**
 - 🗄️ Database expertise in **PostgreSQL, MongoDB, SQL Server**
 - 📦 Hands-on with **Docker, Kubernetes, Jenkins, CI/CD**
