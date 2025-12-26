@@ -2,9 +2,10 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=520&lines=Udaykumar+Jewoor;Tech+Enthusiast;Software+Engineer;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&color=FF0000&lines=Udaykumar+Jewoor;Software+Engineer;Backend+Developer;Java+%7C+Spring+Boot+%7C+.NET+%28Learning%29)](https://git.io/typing-svg)
 
 </div>
+
 
 
 ---
