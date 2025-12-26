@@ -166,9 +166,17 @@ I’ve contributed to real-world production systems in domains like **travel boo
   </tr>
 </table>
 
----## 🏆 GitHub Achievements & Trophies
+## 🏆 Achievements
+
+- 🎯 Quickdraw
+- 🦈 Pull Shark
+- 🧠 Galaxy Brain
+- 🔥 YOLO
+
+🔗 https://github.com/UdaykumarJewoor?tab=achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=UdaykumarJewoor&no-frame=true&no-bg=true&theme=juicyfresh&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 🔗 View all achievements: https://github.com/UdaykumarJewoor?tab=achievements
