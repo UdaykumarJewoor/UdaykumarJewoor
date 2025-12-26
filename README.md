@@ -1,9 +1,11 @@
 # Welcome to my GitHub page 👋
 
 <div align="center">
-  <h2>Udaykumar Jewoor</h2>
-  <p><b>Software Engineer | Backend Developer (Java & Spring Boot)</b></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=520&lines=Udaykumar+Jewoor;Tech+Enthusiast;Software+Engineer;Lifelong+Learner)](https://git.io/typing-svg)
+
 </div>
+
 
 ---
 
