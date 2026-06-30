@@ -20,7 +20,7 @@ Currently crafting intelligent backend solutions at **HG Infotech** while expand
 
 | 🔗 Portfolio | 📄 Resume | 💼 LinkedIn | 🎓 LeetCode | 💻 HackerRank |
 |:---:|:---:|:---:|:---:|:---:|
-| [techie-uday.netlify.app](https://uday.techielife.workers.dev/) | [View PDF](https://drive.google.com/file/d/1wvusyaYNRbfBAX9wZOp35e2EVr2EriS0/view) | [@udaykumar-jewoor](https://linkedin.com/in/udaykumar-jewoor) | [@udaykumargjewoor](https://www.leetcode.com/udaykumargjewoor) | [@udaykumargjewoor](https://www.hackerrank.com/udaykumargjewoor) |
+| [uday.techielife.workers.dev](https://uday.techielife.workers.dev/) | [View PDF](https://drive.google.com/file/d/1wvusyaYNRbfBAX9wZOp35e2EVr2EriS0/view) | [@udaykumar-jewoor](https://linkedin.com/in/udaykumar-jewoor) | [@udaykumargjewoor](https://www.leetcode.com/udaykumargjewoor) | [@udaykumargjewoor](https://www.hackerrank.com/udaykumargjewoor) |
 
 </div>
 
@@ -32,7 +32,7 @@ Currently crafting intelligent backend solutions at **HG Infotech** while expand
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaykumargjewoor@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udaykumar-jewoor)
-[![Portfolio](https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=about.me&logoColor=white)](https://techie-uday.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=about.me&logoColor=white)](https://uday.techielife.workers.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UdaykumarJewoor)
 
 </div>
@@ -234,7 +234,7 @@ Modern, high-performance corporate website with enhanced UX and SEO optimization
 
 **Interested in collaborating or discussing tech?**
 
-[📧 Email](mailto:udaykumargjewoor@gmail.com) • [🔗 LinkedIn](https://linkedin.com/in/udaykumar-jewoor) • [💻 Portfolio](https://techie-uday.netlify.app/) • [🐙 GitHub](https://github.com/UdaykumarJewoor)
+[📧 Email](mailto:udaykumargjewoor@gmail.com) • [🔗 LinkedIn](https://linkedin.com/in/udaykumar-jewoor) • [💻 Portfolio](https://uday.techielife.workers.dev/) • [🐙 GitHub](https://github.com/UdaykumarJewoor)
 
 ---
 
