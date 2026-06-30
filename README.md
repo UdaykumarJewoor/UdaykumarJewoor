@@ -1,194 +1,253 @@
-# Welcome to my GitHub page 👋
+# 👋 Hi, I'm Udaykumar Jewoor
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=520&color=F2994A&lines=Udaykumar+Jewoor;Tech+Enthusiast;Software+Engineer;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Software+Engineer+💻;Java+%26+Spring+Boot+Specialist;Microservices+Architect;AI-Assisted+Developer;Building+Scalable+Systems+🚀)](https://git.io/typing-svg)
 
+**Backend Engineer | Microservices | Cloud-Native Technologies**
 
-</div>
-
-
----
-
-## 👤 About Me
-
-Hi there, I’m **Udaykumar Jewoor**, a Software Engineer with **3+ years of professional experience** in building scalable and secure backend systems.
-
-I primarily work with **Java and Spring Boot**, designing **RESTful APIs**, **microservices-based architectures**, and backend solutions focused on performance, security, and maintainability. I also have working knowledge of **HTML, CSS, and JavaScript**, which helps in seamless backend–frontend integration.
-
-Currently, I’m expanding my skill set by learning **.NET (C# Web APIs)**, **React**, and advanced **DevOps practices**.
-
-🔗 **Portfolio:** [View here](https://techie-uday.netlify.app/)  
-📄 **Resume:** [View Resume](https://drive.google.com/file/d/1wvusyaYNRbfBAX9wZOp35e2EVr2EriS0/view)
-
-
----
-
-## 📨 Social & Contact
-
-<div align="left">
-  <a href="mailto:udaykumargjewoor@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://techie-uday.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/udaykumar-jewoor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/udaykumargjewoor" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/udaykumargjewoor" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
 </div>
 
 ---
 
-## ⚙ Skills
+## 🎯 About Me
 
-### 👨‍💻 Languages
+A passionate **Software Engineer** with **3+ years of experience** building scalable, secure backend systems and microservices architectures. I specialize in **Java & Spring Boot**, designing robust **RESTful APIs**, and integrating modern technologies like **Apache Kafka**, **Docker**, and **Kubernetes**.
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+Currently crafting intelligent backend solutions at **HG Infotech** while expanding expertise in **.NET**, **React**, and **AI-powered development tools**.
+
+<div align="center">
+
+| 🔗 Portfolio | 📄 Resume | 💼 LinkedIn | 🎓 LeetCode | 💻 HackerRank |
+|:---:|:---:|:---:|:---:|:---:|
+| [techie-uday.netlify.app](https://uday.techielife.workers.dev/) | [View PDF](https://drive.google.com/file/d/1wvusyaYNRbfBAX9wZOp35e2EVr2EriS0/view) | [@udaykumar-jewoor](https://linkedin.com/in/udaykumar-jewoor) | [@udaykumargjewoor](https://www.leetcode.com/udaykumargjewoor) | [@udaykumargjewoor](https://www.hackerrank.com/udaykumargjewoor) |
+
 </div>
 
 ---
 
-### 🛠 Technologies & Frameworks
+## 💬 Connect with Me
 
-<div align="left">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaykumargjewoor@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udaykumar-jewoor)
+[![Portfolio](https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=about.me&logoColor=white)](https://techie-uday.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UdaykumarJewoor)
+
 </div>
 
 ---
 
-### 🗄 Databases
+## 🛠️ Technical Skills
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  &nbsp;
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
+### 🖥️ Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🏗️ Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### 📦 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🛠️ Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### 🤖 AI Development Tools
+![Cursor](https://img.shields.io/badge/Cursor-09D3AC?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### **Software Engineer** @ HG Infotech
+**Bangalore, Karnataka** | *August 2023 – Present*
+
+> 🏗️ Architecting scalable microservices and robust backend solutions
+
+- ✨ Designed and developed scalable backend applications using **Java, Spring Boot, and Microservices** architecture
+- 🔐 Built secure RESTful APIs with **Spring Security (JWT)** for multiple business modules
+- 📡 Integrated **third-party APIs** (TBO travel APIs, payment gateways, external services)
+- 🔄 Implemented inter-service communication using **OpenFeign** and **Spring Cloud**
+- 📊 Leveraged **Apache Kafka** for asynchronous event-driven communication between microservices
+- ⚡ Optimized SQL queries and application performance to improve API response times
+- 🎯 Established centralized exception handling, request validation, and logging across services
+- 🐳 Containerized applications using **Docker** and deployed workloads on **Kubernetes**
+- 🚀 Automated CI/CD pipelines using **Jenkins, GitHub Actions, and Azure DevOps**
+- 📚 Published REST API documentation using **Swagger/OpenAPI**
+- 🧪 Developed unit and integration tests using **JUnit and Mockito**
+- 👥 Collaborated with cross-functional Agile teams to deliver high-quality, production-ready software
+
+---
+
+## 🚀 Featured Projects
+
+### 🛫 **Travel Booking Platform** 
+**Dec 2025 – Mar 2026**
+
+Backend microservices for flight booking and travel management platform
+
+**Key Achievements:**
+- 🎫 Integrated **TBO travel APIs** for flight search, fare quotation, booking, ticketing, and cancellation
+- 🔐 Designed secure REST APIs with **JWT authentication** and role-based access control
+- 📈 Improved system reliability using **Resilience4j** retry and circuit breaker patterns
+- ⚡ Optimized backend performance through **caching and efficient database queries**
+- 💳 Integrated payment gateway for seamless transactions
+
+**Tech Stack:** `Java` `Spring Boot` `Microservices` `MongoDB` `Apache Kafka` `Docker` `Kubernetes`
+
+---
+
+### 📄 **Resume Parser & JD Matching System**
+**Mar 2023 – Jul 2023**
+
+Intelligent backend application for automated resume parsing and job matching
+
+**Key Achievements:**
+- 📤 Bulk resume upload support with structured data extraction (skills, experience, education, certifications)
+- 🤖 Integrated **OpenAI/NLP services** for accurate data extraction and matching
+- 📊 Implemented JD upload and **automatic resume–JD match percentage calculation**
+- 🎯 Built recruiter-friendly APIs for candidate shortlisting and filtering
+- 👨‍💼 Developed admin dashboard for monitoring usage and recruiter activity
+
+**Tech Stack:** `Spring Boot` `PostgreSQL` `Apache POI` `PDFBox` `OpenAI API`
+
+---
+
+### 🌐 **HG Infotech Corporate Website**
+**Dec 2023 – Jan 2025**
+
+Modern, high-performance corporate website with enhanced UX and SEO optimization
+
+**Key Achievements:**
+- ⚛️ Built responsive and interactive UI using **Next.js, React.js, HTML, CSS, JavaScript**
+- 🎨 Implemented smooth animations with **Framer Motion** for engaging user experience
+- 🔍 Improved website performance, SEO, and user experience metrics
+- 🤖 Leveraged **AI-assisted development tools** to implement business requirements efficiently
+- ⚡ Optimized for performance, accessibility, and mobile responsiveness
+
+**Tech Stack:** `Next.js` `React.js` `Framer Motion` `HTML` `CSS` `JavaScript` `Vercel`
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science & Engineering**  
+📍 **Basaveshwar Engineering College** (Autonomous) | Bagalkot, Karnataka  
+📅 **2018 – 2022**
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+| 🎯 Focus Area | 📖 Learning Path |
+|:---|:---|
+| **.NET (C# Web APIs)** | Building enterprise-grade applications |
+| **React.js** | Modern frontend development |
+| **Advanced DevOps** | Kubernetes, Helm, and Infrastructure as Code |
+| **Spring AI** | Generative AI integrations |
+
 </div>
 
 ---
 
-### ☁ DevOps & Tools
+## 📊 GitHub Analytics
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdaykumarJewoor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF6B6B&icon_color=FF6B6B)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UdaykumarJewoor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF6B6B)
+
 </div>
 
 ---
 
-## 💼 Experience
+## 🏆 GitHub Achievements
 
-**Software Engineer**  
-**HG Infotech**, Bengaluru  
-📅 Dec 2022 – Present  
-
-- Developing scalable backend services using **Java & Spring Boot**
-- Designing and consuming **RESTful APIs**
-- Implementing **JWT-based authentication and authorization**
-- Working with **microservices architecture**
-- Integrating third-party services such as **payment gateways**
-- Writing clean, maintainable, and well-documented code
-
----
-
-### Fastays – Travel Booking Platform
-- Backend-driven travel application built using **Spring Boot**
-- Enables users to **book buses, flights, and hotels** through a unified platform
-- Implemented **secure login and signup** using **JWT-based authentication**
-- Role-based access control to manage different user permissions
-- Integrated **Razorpay payment gateway** for safe and seamless transactions
-- Designed and developed **RESTful APIs** for:
-  - Creating bookings
-  - Cancelling bookings
-  - Fetching booking details
-- Ensured **data security and integrity** using secure storage and best practices
-- Built with a **microservices-oriented architecture** for scalability  
-
-**Tech:** Java, Spring Boot, Microservices, REST APIs, JWT, Razorpay
-
-
----
-
-### Resume Parser & JD Matching System
-- Backend system built using **Spring Boot** for automated resume parsing
-- Supports **bulk resume uploads** (multiple resumes at once)
-- Extracts key details such as **skills, experience, education, certificate, etc..**
-- Allows recruiters to upload a **Job Description (JD)**
-- Calculates and displays **match percentage** between resumes and the uploaded JD
-- Helps recruiters shortlist candidates faster using structured data and scoring
-- Admin dashboard for monitoring usage and recruiter activity  
-
-**Tech:** Java, Spring Boot, REST APIs, MongoDB, OpenAI API
-
-
----
-
-## 🌱 Currently Learning
-
-- .NET (C# Web APIs)
-- React
-- Advanced DevOps & Kubernetes
-- Spring AI & Generative AI integrations
-
----
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=UdaykumarJewoor&show_icons=true&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaykumarJewoor&layout=donut-vertical&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-## 🏆 Achievements
-
-![Quickdraw](https://img.shields.io/badge/Quickdraw-GitHub-blueviolet)
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-GitHub-blue)
-![Galaxy Brain](https://img.shields.io/badge/Galaxy%20Brain-GitHub-purple)
-![YOLO](https://img.shields.io/badge/YOLO-GitHub-orange)
-
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=UdaykumarJewoor&no-frame=true&no-bg=true&theme=juicyfresh&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-🔗 View all achievements: https://github.com/UdaykumarJewoor?tab=achievements
+[![Quickdraw](https://img.shields.io/badge/🎯%20Quickdraw-GitHub-blueviolet?style=flat-square)]()
+[![Pull Shark](https://img.shields.io/badge/🦈%20Pull%20Shark-GitHub-blue?style=flat-square)]()
+[![Galaxy Brain](https://img.shields.io/badge/🧠%20Galaxy%20Brain-GitHub-purple?style=flat-square)]()
+[![YOLO](https://img.shields.io/badge/🎪%20YOLO-GitHub-orange?style=flat-square)]()
 
+</div>
+
+---
+
+## 🎯 What I'm Passionate About
+
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"><br>
+<b>Scalable<br>Systems</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"><br>
+<b>Cloud Native<br>Architecture</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"><br>
+<b>DevOps &<br>Automation</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"><br>
+<b>Full Stack<br>Development</b>
+</td>
+</tr>
+</table>
+
+---
+
+## 📞 Let's Connect!
+
+<div align="center">
+
+**Interested in collaborating or discussing tech?**
+
+[📧 Email](mailto:udaykumargjewoor@gmail.com) • [🔗 LinkedIn](https://linkedin.com/in/udaykumar-jewoor) • [💻 Portfolio](https://techie-uday.netlify.app/) • [🐙 GitHub](https://github.com/UdaykumarJewoor)
+
+---
+
+⭐ **If you find this profile interesting, don't forget to star my repositories!**
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=UdaykumarJewoor&color=FF6B6B&style=flat-square&label=Profile+Views)
+
+Made with ❤️ by Udaykumar Jewoor
+
+</div>
